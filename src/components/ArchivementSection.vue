@@ -10,41 +10,41 @@ const modules = [Autoplay];
 
 const archivements = ref([
   {
-    image: "/images/emenu-mobile.png",
-    title: "E-menu website for 20 restuarants, Coffee...",
+    image: "/images/VET.png",
+    title: "VET AIR BUS EXPRESS",
     description:
-      "A digital menu for modern restuarant \n A digital menu for modern restuarant \n A digital menu for modern restuarant",
+      "we aim to be the No. 1 traveling choice for you in Cambodia and beyond.",
     link: "https://www.vetairbus.com/en/transit/resorts"
   },
   {
     image: "/images/cushy-store.png",
     title: "E-commerce Website for Curshy Store",
     description:
-      "A online Website easy to find products and buy study material, book, kids products etc.",
+      "",
   },
   {
     image: "/images/tbmpharmacy.png",
     title: "E-commerce Website for TBM Pharmarcy",
     description:
-      "A online Website easy to find hundreds of medicine products and buy any time",
+      "",
   },
   {
     image: "/images/unicorntechnology.png",
     title: "Electronic Website for Unicorn Technology",
     description:
-      "A online Website easy to find accessories, gaming laptop, desktop etc in Unicorn Technology Store",
+      "",
   },
   {
     image: "/images/phsarmall.png",
     title: "Multi-Vendor Shop Website",
     description:
-      "Phsarmall is a center place for many shop can sell their products on website and easy for customer to find and buy many type of products in one place.",
+      "",
   },
   {
     image: "/images/phsarworld.png",
     title: "Construction Website for Phsarworld",
     description:
-      "A online Website selling contruction material products and booking sevice in construction fields",
+      "",
   },
 ]);
 </script>

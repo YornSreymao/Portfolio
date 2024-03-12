@@ -8,21 +8,6 @@ const opensources = ref([
     description: "Personal Website",
     url: "https://github.com/YornSreymao/Portfolio.git",
   },
-  {
-    name: "Movieez",
-    description: "Movie Streaming Website",
-    url: "https://github.com/lengbuntith/project-movieez",
-  },
-  {
-    name: "Travel Advisor",
-    description: "Travel Advisor Website",
-    url: "https://github.com/lengbuntith/Travel-Advisor",
-  },
-  {
-    name: "Realtime Chat App",
-    description: "Realtime Chat Application",
-    url: "https://github.com/lengbuntith/Anakut-Chat-App-Website",
-  },
 ]);
 </script>
 
