@@ -22,8 +22,7 @@ import "swiper/css";
             I am an experienced web development. I have completed numerous projects using new technologies.
           </p>
           <p class="text-white mt-6">
-            "Java in my cup, JavaScript on my screen <br />a programmer's
-            perfect pairing."
+            "I'm just a developer who enjoys studying new technologies."
           </p>
         </div>
         <div class="hidden md:flex items-center justify-center">
