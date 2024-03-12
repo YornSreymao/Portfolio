@@ -11,14 +11,15 @@ const technologies = ref([
   "devicon-ruby-plain-wordmark colored",
   "devicon-typescript-plain",
   "devicon-nestjs-plain-wordmark colored",
-  "devicon-postman-plain-workmark colored",
+  "devicon-mysql-plain-wordmark",
   "devicon-bootstrap-plain-wordmark",
   "devicon-vuetify-plain",
   "devicon-nodejs-plain-wordmark",
   "devicon-mongodb-plain-wordmark",
+  "devicon-postman-plain colored",
   "devicon-github-original",
   "devicon-gitlab-plain",
-  "devicon-ubuntu-plain",
+  "devicon-ubuntu-plain-wordmark colored",
 ]);
 </script>
 
