@@ -16,36 +16,6 @@ const archivements = ref([
       "we aim to be the No. 1 traveling choice for you in Cambodia and beyond.",
     link: "https://www.vetairbus.com/en/transit/resorts"
   },
-  {
-    image: "/images/cushy-store.png",
-    title: "E-commerce Website for Curshy Store",
-    description:
-      "",
-  },
-  {
-    image: "/images/tbmpharmacy.png",
-    title: "E-commerce Website for TBM Pharmarcy",
-    description:
-      "",
-  },
-  {
-    image: "/images/unicorntechnology.png",
-    title: "Electronic Website for Unicorn Technology",
-    description:
-      "",
-  },
-  {
-    image: "/images/phsarmall.png",
-    title: "Multi-Vendor Shop Website",
-    description:
-      "",
-  },
-  {
-    image: "/images/phsarworld.png",
-    title: "Construction Website for Phsarworld",
-    description:
-      "",
-  },
 ]);
 </script>
 
