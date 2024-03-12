@@ -14,70 +14,37 @@ const archivements = ref([
     title: "E-menu website for 20 restuarants, Coffee...",
     description:
       "A digital menu for modern restuarant \n A digital menu for modern restuarant \n A digital menu for modern restuarant",
-    link: "https://menu.ahadelivery.com"
-  },
-  {
-    image: "/images/live-system.png",
-    title: "Facebook Live System",
-    description:
-      "A convenient system for online seller on facebook page easy to manage order from customers, making receipt instantly, auto reply message...",
-    link: "https://messenger.mekongdigitaltv.com"
-  },
-  {
-    image: "/images/opentech-desktop.png",
-    title: "E-learning Website for Opentech Institute",
-    description:
-      "Opentech Institute is an online learning and teaching that provides a full digital education platform and allows instructors to build online courses on their preferred topics.",
-    link: "https://opentechedx.com"
-  },
-  {
-    image: "/images/fardinexpress-desktop.png",
-    title: "E-commerce & Delivery Website for Fardinexpress",
-    description:
-      "Fardin Express is a carrier that uses state-of-the-art technology based on the development of the Internet, and its business is primarily focused on e-commerce. Includes shipping, delivery, warehousing and supply chain, as well as diversified business covering cities across islands and international shipments.",
-    link: "https://fardinexpress.asia"
-  },
-  {
-    image: "/images/galaxycomputer.jpg",
-    title: "E-commerce Website for Galaxy Computer Shop",
-    description:
-      "A online website easy to find products and buy accessories, laptop, desktop etc.",
-    link: "https://galaxycomputer168.com"
+    link: "https://www.vetairbus.com/en/transit/resorts"
   },
   {
     image: "/images/cushy-store.png",
     title: "E-commerce Website for Curshy Store",
     description:
       "A online Website easy to find products and buy study material, book, kids products etc.",
-    link: "https://cushy-store.netlify.app/"
   },
   {
     image: "/images/tbmpharmacy.png",
     title: "E-commerce Website for TBM Pharmarcy",
     description:
       "A online Website easy to find hundreds of medicine products and buy any time",
-    link: "https://tbmpharmacy.com/"
   },
   {
     image: "/images/unicorntechnology.png",
     title: "Electronic Website for Unicorn Technology",
     description:
       "A online Website easy to find accessories, gaming laptop, desktop etc in Unicorn Technology Store",
-    link: "https://unicornkh.netlify.app/"
   },
   {
     image: "/images/phsarmall.png",
     title: "Multi-Vendor Shop Website",
     description:
       "Phsarmall is a center place for many shop can sell their products on website and easy for customer to find and buy many type of products in one place.",
-    link: "https://phsarmall.com/"
   },
   {
     image: "/images/phsarworld.png",
     title: "Construction Website for Phsarworld",
     description:
       "A online Website selling contruction material products and booking sevice in construction fields",
-    link: "https://phsarworld.com"
   },
 ]);
 </script>

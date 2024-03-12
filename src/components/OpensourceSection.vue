@@ -4,9 +4,9 @@ import { ref } from "vue";
 
 const opensources = ref([
   {
-    name: "Buntith Portfolio",
+    name: "Portfolio",
     description: "Personal Website",
-    url: "https://github.com/lengbuntith/buntith-portfolio",
+    url: "https://github.com/YornSreymao/Portfolio.git",
   },
   {
     name: "Movieez",
